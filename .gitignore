@@ -2,3 +2,8 @@ node_modules/
 package-lock.json
 tools/data/
 
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
